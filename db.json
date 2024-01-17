@@ -161,8 +161,268 @@
                 "emi" : 4000000,
                 "remainingamount" : 36000000
             }
+        },
+        {
+            "id": "8",
+            "username": "shreya",
+            "password": "shreya",
+            "email": "shreya@gmail.com",
+            "phone": 1234567890,
+            "address": "Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "pincode": 560001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 750000,
+                "loanterm" : 12 ,
+                "intrestrate" :"12%",
+                "emi" : 7500,
+                "remainingamount" : 675000
+            }
+        },
+        {
+            "id": "9",
+            "username": "vikram",
+            "password": "vikram",
+            "email": "vikram@gmail.com",
+            "phone": 1234567890,
+            "address": "Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "pincode": 600001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 2000000,
+                "loanterm" : 18 ,
+                "intrestrate" :"15%",
+                "emi" : 20000,
+                "remainingamount" : 1800000
+            }
+        },
+        {
+            "id": "10",
+            "username": "sonali",
+            "password": "sonali",
+            "email": "sonali@gmail.com",
+            "phone": 1234567890,
+            "address": "Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": 411001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 500000,
+                "loanterm" : 24 ,
+                "intrestrate" :"18%",
+                "emi" : 5000,
+                "remainingamount" : 450000
+            }
+        },
+        {
+            "id": "11",
+            "username": "ananya",
+            "password": "ananya",
+            "email": "ananya@gmail.com",
+            "phone": 1234567890,
+            "address": "Jaipur",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "pincode": 302001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 1200000,
+                "loanterm" : 20 ,
+                "intrestrate" :"14%",
+                "emi" : 12000,
+                "remainingamount" : 1080000
+            }
+        },
+        {
+            "id": "12",
+            "username": "amit",
+            "password": "amit",
+            "email": "amit@gmail.com",
+            "phone": 1234567890,
+            "address": "Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "pincode": 380001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 800000,
+                "loanterm" : 15 ,
+                "intrestrate" :"16%",
+                "emi" : 8000,
+                "remainingamount" : 720000
+            }
+        },
+        {
+            "id": "13",
+            "username": "swati",
+            "password": "swati",
+            "email": "swati@gmail.com",
+            "phone": 1234567890,
+            "address": "Lucknow",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "pincode": 226001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 250000,
+                "loanterm" : 12 ,
+                "intrestrate" :"10%",
+                "emi" : 2500,
+                "remainingamount" : 225000
+            }
+        },
+        {
+            "id": "14",
+            "username": "saurabh",
+            "password": "saurabh",
+            "email": "saurabh@gmail.com",
+            "phone": 1234567890,
+            "address": "Bhopal",
+            "city": "Bhopal",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "pincode": 462001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 1500000,
+                "loanterm" : 18 ,
+                "intrestrate" :"14%",
+                "emi" : 15000,
+                "remainingamount" : 1350000
+            }
+        },
+        {
+            "id": "15",
+            "username": "pooja",
+            "password": "pooja",
+            "email": "pooja@gmail.com",
+            "phone": 1234567890,
+            "address": "Chandigarh",
+            "city": "Chandigarh",
+            "state": "Punjab",
+            "country": "India",
+            "pincode": 160001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 500000,
+                "loanterm" : 24 ,
+                "intrestrate" :"12%",
+                "emi" : 5000,
+                "remainingamount" : 450000
+            }
+        },
+        {
+            "id": "16",
+            "username": "vikas",
+            "password": "vikas",
+            "email": "vikas@gmail.com",
+            "phone": 1234567890,
+            "address": "Ranchi",
+            "city": "Ranchi",
+            "state": "Jharkhand",
+            "country": "India",
+            "pincode": 834001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 100000,
+                "loanterm" : 12 ,
+                "intrestrate" :"10%",
+                "emi" : 1000,
+                "remainingamount" : 90000
+            }
+        },
+        {
+            "id": "17",
+            "username": "divya",
+            "password": "divya",
+            "email": "divya@gmail.com",
+            "phone": 1234567890,
+            "address": "Dehradun",
+            "city": "Dehradun",
+            "state": "Uttarakhand",
+            "country": "India",
+            "pincode": 248001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 3000000,
+                "loanterm" : 20 ,
+                "intrestrate" :"15%",
+                "emi" : 30000,
+                "remainingamount" : 2700000
+            }
+        },
+        {
+            "id": "18",
+            "username": "arjun",
+            "password": "arjun",
+            "email": "arjun@gmail.com",
+            "phone": 1234567890,
+            "address": "Guwahati",
+            "city": "Guwahati",
+            "state": "Assam",
+            "country": "India",
+            "pincode": 781001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 700000,
+                "loanterm" : 15 ,
+                "intrestrate" :"14%",
+                "emi" : 7000,
+                "remainingamount" : 630000
+            }
+        },
+        {
+            "id": "19",
+            "username": "tanvi",
+            "password": "tanvi",
+            "email": "tanvi@gmail.com",
+            "phone": 1234567890,
+            "address": "Nagpur",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": 440001,
+            "gender": "Female",
+            "form" : {
+                "loanamount" : 900000,
+                "loanterm" : 18 ,
+                "intrestrate" :"12%",
+                "emi" : 9000,
+                "remainingamount" : 810000
+            }
+        },
+        {
+            "id": "20",
+            "username": "raj",
+            "password": "raj",
+            "email": "raj@gmail.com",
+            "phone": 1234567890,
+            "address": "Patna",
+            "city": "Patna",
+            "state": "Bihar",
+            "country": "India",
+            "pincode": 800001,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 120000,
+                "loanterm" : 12 ,
+                "intrestrate" :"10%",
+                "emi" : 1200,
+                "remainingamount" : 108000
+            }
         }
-
+        
     ]
 }
 
