@@ -1,0 +1,168 @@
+{
+    "bank": [
+        "HDFC",
+        "SBI",
+        "ICICI",
+        "KOTAK",
+        "AXIS",
+        "INDUSIND"
+
+    ],
+    "loans" : [
+        "Home Loan",
+        "Personal Loan",
+        "Business Loan",
+        "Education Loan",
+        "Gold Loan"
+    ],
+    "users": [
+        {   
+            "id": "1",
+            "username": "kushagra",
+            "password": "kushagra",
+            "email": "kushagrapathak@gmail.com",
+            "phone": 1234567890,
+            "address": "Mathura",
+            "city": "Mathura",
+            "state": "UttarPradesh",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 1000000,
+                "loanterm" : 5 ,
+                "intrestrate" :"10%",
+                "emi" : 10000,
+                "remainingamount" : 900000
+            }
+        },
+
+        {
+            "id": "2",
+            "username": "rahul",
+            "password": "rahul",
+            "email": "rahul@gmail.com",
+            "phone": 1234567890,
+            "address": "delhi",
+            "city": "delhi",
+            "state": "delhi",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 50000,
+                "loanterm" : 10 ,
+                "intrestrate" :"20%",
+                "emi" : 5000,
+                "remainingamount" : 45000
+            }
+        },
+
+        {
+            "id": "3",
+            "username": "sachin",
+            "password": "sachin",
+            "email": "sachin@gmail.com",
+            "phone": 1234567890,
+            "address": "mumbai",
+            "city": "mumbai",
+            "state": "mumbai",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form" : {
+                "loanamount" : 90000,
+                "loanterm" : 15 ,
+                "intrestrate" :"15%",
+                "emi" : 9000,
+                "remainingamount" : 81000
+            }
+        },
+
+        {
+            "id": "4",
+            "username": "naman",
+            "password": "naman",
+            "email": "naman@gmail.com",
+            "phone": 1234567890,
+            "address": "murena",
+            "city": "murena",
+            "state": "UttarPradesh",
+            "country":"India",
+            "pincode": 123456,
+            "gender":"Male",
+            "form" : {
+                "loanamount" : 10000000,
+                "loanterm" : 20 ,
+                "intrestrate" :"10%",
+                "emi" : 1000000,
+                "remainingamount" : 9000000
+            }
+        },
+
+        {
+            "id": "5",
+            "username": "abhishek",
+            "password": "abhishek",
+            "email": "abhishek@gmail.com",
+            "phone": 1234567890,
+            "address": "kolkata",
+            "city": "kolkata",
+            "state":"kolkata",
+            "country":"India",
+            "pincode": 123456,
+            "gender":"Male",
+            "form":{
+                "loanamount" : 6900000,
+                "loanterm" : 25 ,
+                "intrestrate" :"10%",
+                "emi" : 690000,
+                "remainingamount" : 6000000
+            }
+        },
+
+        {
+            "id": "6",
+            "username": "anusha",
+            "password": "anusha",
+            "email": "anusha@gmail.com",
+            "phone": 1234567890,
+            "address": "kolkata",
+            "city": "kolkata",
+            "state":"kolkata",
+            "country":"India",
+            "pincode": 123456,
+            "gender":"female",
+            "form":{
+                "loanamount" : 50000,
+                "loanterm" : 25 ,
+                "intrestrate" :"10%",
+                "emi" : 5000,
+                "remainingamount" : 45000
+            }
+        },
+
+        {
+            "id": "7",
+            "username": "anusha",
+            "password": "anusha",
+            "email": "anusha@gmail.com",
+            "phone": 1234567890,
+            "address": "kolkata",
+            "city": "kolkata",
+            "state":"kolkata",
+            "country":"India",
+            "pincode": 123456,
+            "gender":"female",
+            "form":{
+                "loanamount" : 40000000,
+                "loanterm" : 8 ,
+                "intrestrate" :"10%",
+                "emi" : 4000000,
+                "remainingamount" : 36000000
+            }
+        }
+
+    ]
+}
+
