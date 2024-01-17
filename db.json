@@ -5,7 +5,25 @@
         "ICICI",
         "KOTAK",
         "AXIS",
-        "INDUSIND"
+        "INDUSIND",
+        "PNB",
+        "YES Bank",
+        "IDBI",
+        "Bank of Baroda",
+        "Canara Bank",
+        "Federal Bank",
+        "Karnataka Bank",
+        "Punjab & Sind Bank",
+        "Bank of India",
+        "Union Bank",
+        "Central Bank of India",
+        "Oriental Bank of Commerce",
+        "State Bank of Patiala",
+        "Dena Bank",
+        "United Bank of India",
+        "Syndicate Bank",
+        "Indian Overseas Bank",
+        "UCO Bank"
 
     ],
     "loans" : [
@@ -13,7 +31,22 @@
         "Personal Loan",
         "Business Loan",
         "Education Loan",
-        "Gold Loan"
+        "Gold Loan",
+        "Car Loan",
+        "Two-Wheeler Loan",
+        "Medical Loan",
+        "Construction Loan",
+        "Renovation Loan",
+        "Travel Loan",
+        "Wedding Loan",
+        "Debt Consolidation Loan",
+        "Mortgage Loan",
+        "Payday Loan",
+        "Emergency Loan",
+        "Green Energy Loan",
+        "Professional Loan",
+        "Overdraft",
+        "Commercial Vehicle Loan"
     ],
     "users": [
         {   
