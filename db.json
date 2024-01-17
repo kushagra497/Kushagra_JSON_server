@@ -1,55 +1,6 @@
 {
-    "bank": [
-        "HDFC",
-        "SBI",
-        "ICICI",
-        "KOTAK",
-        "AXIS",
-        "INDUSIND",
-        "PNB",
-        "YES Bank",
-        "IDBI",
-        "Bank of Baroda",
-        "Canara Bank",
-        "Federal Bank",
-        "Karnataka Bank",
-        "Punjab & Sind Bank",
-        "Bank of India",
-        "Union Bank",
-        "Central Bank of India",
-        "Oriental Bank of Commerce",
-        "State Bank of Patiala",
-        "Dena Bank",
-        "United Bank of India",
-        "Syndicate Bank",
-        "Indian Overseas Bank",
-        "UCO Bank"
-
-    ],
-    "loans" : [
-        "Home Loan",
-        "Personal Loan",
-        "Business Loan",
-        "Education Loan",
-        "Gold Loan",
-        "Car Loan",
-        "Two-Wheeler Loan",
-        "Medical Loan",
-        "Construction Loan",
-        "Renovation Loan",
-        "Travel Loan",
-        "Wedding Loan",
-        "Debt Consolidation Loan",
-        "Mortgage Loan",
-        "Payday Loan",
-        "Emergency Loan",
-        "Green Energy Loan",
-        "Professional Loan",
-        "Overdraft",
-        "Commercial Vehicle Loan"
-    ],
     "users": [
-        {   
+        {
             "id": "1",
             "username": "kushagra",
             "password": "kushagra",
@@ -57,305 +8,329 @@
             "phone": 1234567890,
             "address": "Mathura",
             "city": "Mathura",
-            "state": "UttarPradesh",
+            "state": "Uttar Pradesh",
             "country": "India",
             "pincode": 123456,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 1000000,
-                "loanterm" : 5 ,
-                "intrestrate" :"10%",
-                "emi" : 10000,
-                "remainingamount" : 900000
+            "form": {
+              "loanamount": 1000000,
+              "loanterm": 5,
+              "intrestrate": "10%",
+              "emi": 10000,
+              "remainingamount": 900000,
+              "bank": "ICICI",
+              "loan": "Business Loan"
             }
-        },
-
-        {
+          },
+          {
             "id": "2",
             "username": "rahul",
             "password": "rahul",
             "email": "rahul@gmail.com",
             "phone": 1234567890,
-            "address": "delhi",
-            "city": "delhi",
-            "state": "delhi",
+            "address": "Delhi",
+            "city": "Delhi",
+            "state": "Delhi",
             "country": "India",
             "pincode": 123456,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 50000,
-                "loanterm" : 10 ,
-                "intrestrate" :"20%",
-                "emi" : 5000,
-                "remainingamount" : 45000
+            "form": {
+              "loanamount": 50000,
+              "loanterm": 10,
+              "intrestrate": "20%",
+              "emi": 5000,
+              "remainingamount": 45000,
+              "bank": "KOTAK",
+              "loan": "Gold Loan"
             }
-        },
-
-        {
+          },
+          {
             "id": "3",
             "username": "sachin",
             "password": "sachin",
             "email": "sachin@gmail.com",
             "phone": 1234567890,
-            "address": "mumbai",
-            "city": "mumbai",
-            "state": "mumbai",
+            "address": "Mumbai",
+            "city": "Mumbai",
+            "state": "Maharashtra",
             "country": "India",
             "pincode": 123456,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 90000,
-                "loanterm" : 15 ,
-                "intrestrate" :"15%",
-                "emi" : 9000,
-                "remainingamount" : 81000
+            "form": {
+              "loanamount": 90000,
+              "loanterm": 15,
+              "intrestrate": "15%",
+              "emi": 9000,
+              "remainingamount": 81000,
+              "bank": "Syndicate Bank",
+              "loan": "Green Energy Loan"
             }
-        },
-
-        {
+          },
+          {
             "id": "4",
             "username": "naman",
             "password": "naman",
             "email": "naman@gmail.com",
             "phone": 1234567890,
-            "address": "murena",
-            "city": "murena",
-            "state": "UttarPradesh",
-            "country":"India",
+            "address": "Morena",
+            "city": "Morena",
+            "state": "Madhya Pradesh",
+            "country": "India",
             "pincode": 123456,
-            "gender":"Male",
-            "form" : {
-                "loanamount" : 10000000,
-                "loanterm" : 20 ,
-                "intrestrate" :"10%",
-                "emi" : 1000000,
-                "remainingamount" : 9000000
+            "gender": "Male",
+            "form": {
+              "loanamount": 10000000,
+              "loanterm": 20,
+              "intrestrate": "10%",
+              "emi": 1000000,
+              "remainingamount": 9000000,
+              "bank": "United Bank of India",
+              "loan": "Overdraft"
             }
-        },
-
-        {
+          },
+          {
             "id": "5",
             "username": "abhishek",
             "password": "abhishek",
             "email": "abhishek@gmail.com",
             "phone": 1234567890,
-            "address": "kolkata",
-            "city": "kolkata",
-            "state":"kolkata",
-            "country":"India",
+            "address": "Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
             "pincode": 123456,
-            "gender":"Male",
-            "form":{
-                "loanamount" : 6900000,
-                "loanterm" : 25 ,
-                "intrestrate" :"10%",
-                "emi" : 690000,
-                "remainingamount" : 6000000
+            "gender": "Male",
+            "form": {
+              "loanamount": 6900000,
+              "loanterm": 25,
+              "intrestrate": "10%",
+              "emi": 690000,
+              "remainingamount": 6000000,
+              "bank": "Bank of Baroda",
+              "loan": "Wedding Loan"
             }
-        },
-
-        {
+          },
+          {
             "id": "6",
             "username": "anusha",
             "password": "anusha",
             "email": "anusha@gmail.com",
             "phone": 1234567890,
-            "address": "kolkata",
-            "city": "kolkata",
-            "state":"kolkata",
-            "country":"India",
+            "address": "Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "country": "India",
             "pincode": 123456,
-            "gender":"female",
-            "form":{
-                "loanamount" : 50000,
-                "loanterm" : 25 ,
-                "intrestrate" :"10%",
-                "emi" : 5000,
-                "remainingamount" : 45000
+            "gender": "Female",
+            "form": {
+              "loanamount": 50000,
+              "loanterm": 25,
+              "intrestrate": "10%",
+              "emi": 5000,
+              "remainingamount": 45000,
+              "bank": "PNB",
+              "loan": "Payday Loan"
             }
-        },
-
-        {
+          },
+          {
             "id": "7",
-            "username": "anusha",
-            "password": "anusha",
-            "email": "anusha@gmail.com",
-            "phone": 1234567890,
-            "address": "kolkata",
-            "city": "kolkata",
-            "state":"kolkata",
-            "country":"India",
-            "pincode": 123456,
-            "gender":"female",
-            "form":{
-                "loanamount" : 40000000,
-                "loanterm" : 8 ,
-                "intrestrate" :"10%",
-                "emi" : 4000000,
-                "remainingamount" : 36000000
-            }
-        },
-        {
-            "id": "8",
-            "username": "shreya",
-            "password": "shreya",
-            "email": "shreya@gmail.com",
-            "phone": 1234567890,
-            "address": "Bangalore",
-            "city": "Bangalore",
-            "state": "Karnataka",
-            "country": "India",
-            "pincode": 560001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 750000,
-                "loanterm" : 12 ,
-                "intrestrate" :"12%",
-                "emi" : 7500,
-                "remainingamount" : 675000
-            }
-        },
-        {
-            "id": "9",
-            "username": "vikram",
-            "password": "vikram",
-            "email": "vikram@gmail.com",
-            "phone": 1234567890,
-            "address": "Chennai",
-            "city": "Chennai",
-            "state": "Tamil Nadu",
-            "country": "India",
-            "pincode": 600001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 2000000,
-                "loanterm" : 18 ,
-                "intrestrate" :"15%",
-                "emi" : 20000,
-                "remainingamount" : 1800000
-            }
-        },
-        {
-            "id": "10",
-            "username": "sonali",
-            "password": "sonali",
-            "email": "sonali@gmail.com",
-            "phone": 1234567890,
-            "address": "Pune",
-            "city": "Pune",
-            "state": "Maharashtra",
-            "country": "India",
-            "pincode": 411001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 500000,
-                "loanterm" : 24 ,
-                "intrestrate" :"18%",
-                "emi" : 5000,
-                "remainingamount" : 450000
-            }
-        },
-        {
-            "id": "11",
-            "username": "ananya",
-            "password": "ananya",
-            "email": "ananya@gmail.com",
+            "username": "sudhir",
+            "password": "sudhir",
+            "email": "sudhir@gmail.com",
             "phone": 1234567890,
             "address": "Jaipur",
             "city": "Jaipur",
             "state": "Rajasthan",
             "country": "India",
-            "pincode": 302001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 1200000,
-                "loanterm" : 20 ,
-                "intrestrate" :"14%",
-                "emi" : 12000,
-                "remainingamount" : 1080000
-            }
-        },
-        {
-            "id": "12",
-            "username": "amit",
-            "password": "amit",
-            "email": "amit@gmail.com",
-            "phone": 1234567890,
-            "address": "Ahmedabad",
-            "city": "Ahmedabad",
-            "state": "Gujarat",
-            "country": "India",
-            "pincode": 380001,
+            "pincode": 123456,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 800000,
-                "loanterm" : 15 ,
-                "intrestrate" :"16%",
-                "emi" : 8000,
-                "remainingamount" : 720000
+            "form": {
+              "loanamount": 300000,
+              "loanterm": 10,
+              "intrestrate": "15%",
+              "emi": 30000,
+              "remainingamount": 270000,
+              "bank": "HDFC",
+              "loan": "Personal Loan"
             }
-        },
-        {
-            "id": "13",
-            "username": "swati",
-            "password": "swati",
-            "email": "swati@gmail.com",
+          },
+          {
+            "id": "8",
+            "username": "priya",
+            "password": "priya",
+            "email": "priya@gmail.com",
             "phone": 1234567890,
             "address": "Lucknow",
             "city": "Lucknow",
             "state": "Uttar Pradesh",
             "country": "India",
-            "pincode": 226001,
+            "pincode": 123456,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 250000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 2500,
-                "remainingamount" : 225000
+            "form": {
+              "loanamount": 200000,
+              "loanterm": 5,
+              "intrestrate": "12%",
+              "emi": 20000,
+              "remainingamount": 180000,
+              "bank": "Axis Bank",
+              "loan": "Education Loan"
             }
-        },
-        {
-            "id": "14",
-            "username": "saurabh",
-            "password": "saurabh",
-            "email": "saurabh@gmail.com",
+          },
+          {
+            "id": "9",
+            "username": "aman",
+            "password": "aman",
+            "email": "aman@gmail.com",
             "phone": 1234567890,
             "address": "Bhopal",
             "city": "Bhopal",
             "state": "Madhya Pradesh",
             "country": "India",
-            "pincode": 462001,
+            "pincode": 123456,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 1500000,
-                "loanterm" : 18 ,
-                "intrestrate" :"14%",
-                "emi" : 15000,
-                "remainingamount" : 1350000
+            "form": {
+              "loanamount": 150000,
+              "loanterm": 8,
+              "intrestrate": "18%",
+              "emi": 15000,
+              "remainingamount": 135000,
+              "bank": "Canara Bank",
+              "loan": "Car Loan"
             }
-        },
-        {
-            "id": "15",
-            "username": "pooja",
-            "password": "pooja",
-            "email": "pooja@gmail.com",
+          },
+          {
+            "id": "10",
+            "username": "manisha",
+            "password": "manisha",
+            "email": "manisha@gmail.com",
             "phone": 1234567890,
-            "address": "Chandigarh",
-            "city": "Chandigarh",
-            "state": "Punjab",
+            "address": "Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
             "country": "India",
-            "pincode": 160001,
+            "pincode": 123456,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 500000,
-                "loanterm" : 24 ,
-                "intrestrate" :"12%",
-                "emi" : 5000,
-                "remainingamount" : 450000
+            "form": {
+              "loanamount": 750000,
+              "loanterm": 12,
+              "intrestrate": "12%",
+              "emi": 75000,
+              "remainingamount": 675000,
+              "bank": "IDBI",
+              "loan": "Home Loan"
             }
-        },
-        {
+          },
+          {
+            "id": "11",
+            "username": "arjun",
+            "password": "arjun",
+            "email": "arjun@gmail.com",
+            "phone": 1234567890,
+            "address": "Hyderabad",
+            "city": "Hyderabad",
+            "state": "Telangana",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form": {
+              "loanamount": 1200000,
+              "loanterm": 15,
+              "intrestrate": "14%",
+              "emi": 120000,
+              "remainingamount": 1080000,
+              "bank": "UCO Bank",
+              "loan": "Renovation Loan"
+            }
+          },
+          {
+            "id": "12",
+            "username": "mohini",
+            "password": "mohini",
+            "email": "mohini@gmail.com",
+            "phone": 1234567890,
+            "address": "Jaipur",
+            "city": "Jaipur",
+            "state": "Rajasthan",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Female",
+            "form": {
+              "loanamount": 200000,
+              "loanterm": 7,
+              "intrestrate": "12%",
+              "emi": 20000,
+              "remainingamount": 180000,
+              "bank": "Andhra Bank",
+              "loan": "Medical Loan"
+            }
+          },
+          {
+            "id": "13",
+            "username": "vivek",
+            "password": "vivek",
+            "email": "vivek@gmail.com",
+            "phone": 1234567890,
+            "address": "Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form": {
+              "loanamount": 3000000,
+              "loanterm": 20,
+              "intrestrate": "11%",
+              "emi": 300000,
+              "remainingamount": 2700000,
+              "bank": "Bank of India",
+              "loan": "Business Loan"
+            }
+          },
+          {
+            "id": "14",
+            "username": "neha",
+            "password": "neha",
+            "email": "neha@gmail.com",
+            "phone": 1234567890,
+            "address": "Nagpur",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Female",
+            "form": {
+              "loanamount": 80000,
+              "loanterm": 10,
+              "intrestrate": "18%",
+              "emi": 8000,
+              "remainingamount": 72000,
+              "bank": "Central Bank of India",
+              "loan": "Gold Loan"
+            }
+          },
+          {
+            "id": "15",
+            "username": "rohit",
+            "password": "rohit",
+            "email": "rohit@gmail.com",
+            "phone": 1234567890,
+            "address": "Bangalore",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "pincode": 123456,
+            "gender": "Male",
+            "form": {
+              "loanamount": 600000,
+              "loanterm": 15,
+              "intrestrate": "14%",
+              "emi": 60000,
+              "remainingamount": 540000,
+              "bank": "Indian Bank",
+              "loan": "Green Energy Loan"
+            }
+          },
+          {
             "id": "16",
             "username": "vikas",
             "password": "vikas",
@@ -367,12 +342,14 @@
             "country": "India",
             "pincode": 834001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 100000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 1000,
-                "remainingamount" : 90000
+            "form": {
+                "loanamount": 100000,
+                "loanterm": 12,
+                "intrestrate": "10%",
+                "emi": 1000,
+                "remainingamount": 90000,
+                "bank": "HDFC Bank",
+                "loan_type": "Personal Loan"
             }
         },
         {
@@ -387,12 +364,14 @@
             "country": "India",
             "pincode": 248001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 3000000,
-                "loanterm" : 20 ,
-                "intrestrate" :"15%",
-                "emi" : 30000,
-                "remainingamount" : 2700000
+            "form": {
+                "loanamount": 3000000,
+                "loanterm": 20,
+                "intrestrate": "15%",
+                "emi": 30000,
+                "remainingamount": 2700000,
+                "bank": "ICICI Bank",
+                "loan_type": "Home Loan"
             }
         },
         {
@@ -407,12 +386,14 @@
             "country": "India",
             "pincode": 781001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 700000,
-                "loanterm" : 15 ,
-                "intrestrate" :"14%",
-                "emi" : 7000,
-                "remainingamount" : 630000
+            "form": {
+                "loanamount": 700000,
+                "loanterm": 15,
+                "intrestrate": "14%",
+                "emi": 7000,
+                "remainingamount": 630000,
+                "bank": "Axis Bank",
+                "loan_type": "Education Loan"
             }
         },
         {
@@ -427,12 +408,14 @@
             "country": "India",
             "pincode": 440001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 900000,
-                "loanterm" : 18 ,
-                "intrestrate" :"12%",
-                "emi" : 9000,
-                "remainingamount" : 810000
+            "form": {
+                "loanamount": 900000,
+                "loanterm": 18,
+                "intrestrate": "12%",
+                "emi": 9000,
+                "remainingamount": 810000,
+                "bank": "SBI",
+                "loan_type": "Car Loan"
             }
         },
         {
@@ -447,12 +430,14 @@
             "country": "India",
             "pincode": 800001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 120000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 1200,
-                "remainingamount" : 108000
+            "form": {
+                "loanamount": 120000,
+                "loanterm": 12,
+                "intrestrate": "10%",
+                "emi": 1200,
+                "remainingamount": 108000,
+                "bank": "Kotak Mahindra Bank",
+                "loan_type": "Personal Loan"
             }
         },
         {
@@ -467,12 +452,14 @@
             "country": "India",
             "pincode": 751001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 1800000,
-                "loanterm" : 24 ,
-                "intrestrate" :"15%",
-                "emi" : 18000,
-                "remainingamount" : 1620000
+            "form": {
+                "loanamount": 1800000,
+                "loanterm": 24,
+                "intrestrate": "15%",
+                "emi": 18000,
+                "remainingamount": 1620000,
+                "bank": "HDFC Bank",
+                "loan_type": "Home Loan"
             }
         },
         {
@@ -487,12 +474,14 @@
             "country": "India",
             "pincode": 395001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 300000,
-                "loanterm" : 15 ,
-                "intrestrate" :"12%",
-                "emi" : 3000,
-                "remainingamount" : 270000
+            "form": {
+                "loanamount": 300000,
+                "loanterm": 15,
+                "intrestrate": "12%",
+                "emi": 3000,
+                "remainingamount": 270000,
+                "bank": "ICICI Bank",
+                "loan_type": "Car Loan"
             }
         },
         {
@@ -507,19 +496,154 @@
             "country": "India",
             "pincode": 403001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 500000,
-                "loanterm" : 18 ,
-                "intrestrate" :"14%",
-                "emi" : 5000,
-                "remainingamount" : 450000
+            "form": {
+                "loanamount": 500000,
+                "loanterm": 18,
+                "intrestrate": "13%",
+                "emi": 5000,
+                "remainingamount": 450000,
+                "bank": "Axis Bank",
+                "loan_type": "Personal Loan"
             }
         },
         {
             "id": "24",
-            "username": "akash",
-            "password": "akash",
-            "email": "akash@gmail.com",
+            "username": "amit",
+            "password": "amit",
+            "email": "amit@gmail.com",
+            "phone": 1234567890,
+            "address": "Chennai",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "country": "India",
+            "pincode": 600001,
+            "gender": "Male",
+            "form": {
+                "loanamount": 2000000,
+                "loanterm": 24,
+                "intrestrate": "14%",
+                "emi": 20000,
+                "remainingamount": 1800000,
+                "bank": "HDFC Bank",
+                "loan_type": "Home Loan"
+            }
+        },
+        {
+            "id": "25",
+            "username": "neha",
+            "password": "neha",
+            "email": "neha@gmail.com",
+            "phone": 1234567890,
+            "address": "Lucknow",
+            "city": "Lucknow",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "pincode": 226001,
+            "gender": "Female",
+            "form": {
+                "loanamount": 800000,
+                "loanterm": 18,
+                "intrestrate": "12%",
+                "emi": 8000,
+                "remainingamount": 720000,
+                "bank": "SBI",
+                "loan_type": "Car Loan"
+            }
+        },
+        {
+            "id": "26",
+            "username": "deepak",
+            "password": "deepak",
+            "email": "deepak@gmail.com",
+            "phone": 1234567890,
+            "address": "Noida",
+            "city": "Noida",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "pincode": 201301,
+            "gender": "Male",
+            "form": {
+                "loanamount": 1500000,
+                "loanterm": 20,
+                "intrestrate": "13%",
+                "emi": 15000,
+                "remainingamount": 1350000,
+                "bank": "Kotak Mahindra Bank",
+                "loan_type": "Education Loan"
+            }
+        },
+        
+        {
+            "id": "27",
+            "username": "ruchi",
+            "password": "ruchi",
+            "email": "ruchi@gmail.com",
+            "phone": 1234567890,
+            "address": "Indore",
+            "city": "Indore",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "pincode": 452001,
+            "gender": "Female",
+            "form": {
+                "loanamount": 600000,
+                "loanterm": 15,
+                "intrestrate": "11%",
+                "emi": 6000,
+                "remainingamount": 540000,
+                "bank": "ICICI Bank",
+                "loan_type": "Personal Loan"
+            }
+        },
+        {
+            "id": "28",
+            "username": "anil",
+            "password": "anil",
+            "email": "anil@gmail.com",
+            "phone": 1234567890,
+            "address": "Bhopal",
+            "city": "Bhopal",
+            "state": "Madhya Pradesh",
+            "country": "India",
+            "pincode": 462001,
+            "gender": "Male",
+            "form": {
+                "loanamount": 250000,
+                "loanterm": 12,
+                "intrestrate": "10%",
+                "emi": 2500,
+                "remainingamount": 225000,
+                "bank": "Axis Bank",
+                "loan_type": "Car Loan"
+            }
+        },
+        {
+            "id": "29",
+            "username": "kavita",
+            "password": "kavita",
+            "email": "kavita@gmail.com",
+            "phone": 1234567890,
+            "address": "Rajkot",
+            "city": "Rajkot",
+            "state": "Gujarat",
+            "country": "India",
+            "pincode": 360001,
+            "gender": "Female",
+            "form": {
+                "loanamount": 1500000,
+                "loanterm": 18,
+                "intrestrate": "12%",
+                "emi": 15000,
+                "remainingamount": 1350000,
+                "bank": "SBI",
+                "loan_type": "Home Loan"
+            }
+        },
+        {
+            "id": "30",
+            "username": "surya",
+            "password": "surya",
+            "email": "surya@gmail.com",
             "phone": 1234567890,
             "address": "Coimbatore",
             "city": "Coimbatore",
@@ -527,334 +651,214 @@
             "country": "India",
             "pincode": 641001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 1200000,
-                "loanterm" : 20 ,
-                "intrestrate" :"16%",
-                "emi" : 12000,
-                "remainingamount" : 1080000
-            }
-        },
-        {
-            "id": "25",
-            "username": "simran",
-            "password": "simran",
-            "email": "simran@gmail.com",
-            "phone": 1234567890,
-            "address": "Vadodara",
-            "city": "Vadodara",
-            "state": "Gujarat",
-            "country": "India",
-            "pincode": 390001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 800000,
-                "loanterm" : 15 ,
-                "intrestrate" :"14%",
-                "emi" : 8000,
-                "remainingamount" : 720000
-            }
-        },
-        {
-            "id": "26",
-            "username": "aditya",
-            "password": "aditya",
-            "email": "aditya@gmail.com",
-            "phone": 1234567890,
-            "address": "Kochi",
-            "city": "Kochi",
-            "state": "Kerala",
-            "country": "India",
-            "pincode": 682001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 250000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 2500,
-                "remainingamount" : 225000
-            }
-        },
-        {
-            "id": "27",
-            "username": "tanisha",
-            "password": "tanisha",
-            "email": "tanisha@gmail.com",
-            "phone": 1234567890,
-            "address": "Thiruvananthapuram",
-            "city": "Thiruvananthapuram",
-            "state": "Kerala",
-            "country": "India",
-            "pincode": 695001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 1500000,
-                "loanterm" : 18 ,
-                "intrestrate" :"12%",
-                "emi" : 15000,
-                "remainingamount" : 1350000
-            }
-        },
-        {
-            "id": "28",
-            "username": "vikrant",
-            "password": "vikrant",
-            "email": "vikrant@gmail.com",
-            "phone": 1234567890,
-            "address": "Indore",
-            "city": "Indore",
-            "state": "Madhya Pradesh",
-            "country": "India",
-            "pincode": 452001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 500000,
-                "loanterm" : 24 ,
-                "intrestrate" :"15%",
-                "emi" : 5000,
-                "remainingamount" : 450000
-            }
-        },
-        {
-            "id": "29",
-            "username": "riya",
-            "password": "riya",
-            "email": "riya@gmail.com",
-            "phone": 1234567890,
-            "address": "Raipur",
-            "city": "Raipur",
-            "state": "Chhattisgarh",
-            "country": "India",
-            "pincode": 492001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 100000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 1000,
-                "remainingamount" : 90000
-            }
-        },
-        {
-            "id": "30",
-            "username": "rohit",
-            "password": "rohit",
-            "email": "rohit@gmail.com",
-            "phone": 1234567890,
-            "address": "Gandhinagar",
-            "city": "Gandhinagar",
-            "state": "Gujarat",
-            "country": "India",
-            "pincode": 382001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 900000,
-                "loanterm" : 18 ,
-                "intrestrate" :"12%",
-                "emi" : 9000,
-                "remainingamount" : 810000
-            }
-        },
-        {
-            "id": "30",
-            "username": "rohit",
-            "password": "rohit",
-            "email": "rohit@gmail.com",
-            "phone": 1234567890,
-            "address": "Gandhinagar",
-            "city": "Gandhinagar",
-            "state": "Gujarat",
-            "country": "India",
-            "pincode": 382001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 900000,
-                "loanterm" : 18 ,
-                "intrestrate" :"12%",
-                "emi" : 9000,
-                "remainingamount" : 810000
+            "form": {
+                "loanamount": 400000,
+                "loanterm": 15,
+                "intrestrate": "11%",
+                "emi": 4000,
+                "remainingamount": 360000,
+                "bank": "HDFC Bank",
+                "loan_type": "Education Loan"
             }
         },
         {
             "id": "31",
-            "username": "isha",
-            "password": "isha",
-            "email": "isha@gmail.com",
+            "username": "pooja",
+            "password": "pooja",
+            "email": "pooja@gmail.com",
             "phone": 1234567890,
-            "address": "Jabalpur",
-            "city": "Jabalpur",
-            "state": "Madhya Pradesh",
+            "address": "Ahmedabad",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
             "country": "India",
-            "pincode": 482001,
+            "pincode": 380001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 700000,
-                "loanterm" : 15 ,
-                "intrestrate" :"14%",
-                "emi" : 7000,
-                "remainingamount" : 630000
+            "form": {
+                "loanamount": 800000,
+                "loanterm": 18,
+                "intrestrate": "13%",
+                "emi": 8000,
+                "remainingamount": 720000,
+                "bank": "ICICI Bank",
+                "loan_type": "Car Loan"
             }
         },
         {
             "id": "32",
-            "username": "manoj",
-            "password": "manoj",
-            "email": "manoj@gmail.com",
+            "username": "manish",
+            "password": "manish",
+            "email": "manish@gmail.com",
             "phone": 1234567890,
-            "address": "Bilaspur",
-            "city": "Bilaspur",
-            "state": "Chhattisgarh",
+            "address": "Jaipur",
+            "city": "Jaipur",
+            "state": "Rajasthan",
             "country": "India",
-            "pincode": 495001,
+            "pincode": 302001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 1200000,
-                "loanterm" : 20 ,
-                "intrestrate" :"16%",
-                "emi" : 12000,
-                "remainingamount" : 1080000
+            "form": {
+                "loanamount": 1200000,
+                "loanterm": 24,
+                "intrestrate": "14%",
+                "emi": 12000,
+                "remainingamount": 1080000,
+                "bank": "Axis Bank",
+                "loan_type": "Home Loan"
             }
         },
         {
             "id": "33",
-            "username": "smita",
-            "password": "smita",
-            "email": "smita@gmail.com",
+            "username": "reena",
+            "password": "reena",
+            "email": "reena@gmail.com",
             "phone": 1234567890,
-            "address": "Nashik",
-            "city": "Nashik",
-            "state": "Maharashtra",
+            "address": "Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal",
             "country": "India",
-            "pincode": 422001,
+            "pincode": 700001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 2000000,
-                "loanterm" : 24 ,
-                "intrestrate" :"15%",
-                "emi" : 20000,
-                "remainingamount" : 1800000
+            "form": {
+                "loanamount": 300000,
+                "loanterm": 15,
+                "intrestrate": "12%",
+                "emi": 3000,
+                "remainingamount": 270000,
+                "bank": "SBI",
+                "loan_type": "Personal Loan"
             }
         },
         {
             "id": "34",
-            "username": "amrita",
-            "password": "amrita",
-            "email": "amrita@gmail.com",
+            "username": "vijay",
+            "password": "vijay",
+            "email": "vijay@gmail.com",
             "phone": 1234567890,
-            "address": "Shimla",
-            "city": "Shimla",
-            "state": "Himachal Pradesh",
+            "address": "Chandigarh",
+            "city": "Chandigarh",
+            "state": "Punjab",
             "country": "India",
-            "pincode": 171001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 800000,
-                "loanterm" : 18 ,
-                "intrestrate" :"14%",
-                "emi" : 8000,
-                "remainingamount" : 720000
+            "pincode": 160001,
+            "gender": "Male",
+            "form": {
+                "loanamount": 500000,
+                "loanterm": 18,
+                "intrestrate": "15%",
+                "emi": 5000,
+                "remainingamount": 450000,
+                "bank": "HDFC Bank",
+                "loan_type": "Car Loan"
             }
         },
         {
             "id": "35",
-            "username": "pranav",
-            "password": "pranav",
-            "email": "pranav@gmail.com",
+            "username": "anita",
+            "password": "anita",
+            "email": "anita@gmail.com",
             "phone": 1234567890,
-            "address": "Kanpur",
-            "city": "Kanpur",
-            "state": "Uttar Pradesh",
+            "address": "Amritsar",
+            "city": "Amritsar",
+            "state": "Punjab",
             "country": "India",
-            "pincode": 208001,
-            "gender": "Male",
-            "form" : {
-                "loanamount" : 500000,
-                "loanterm" : 24 ,
-                "intrestrate" :"12%",
-                "emi" : 5000,
-                "remainingamount" : 450000
+            "pincode": 143001,
+            "gender": "Female",
+            "form": {
+                "loanamount": 900000,
+                "loanterm": 20,
+                "intrestrate": "13%",
+                "emi": 9000,
+                "remainingamount": 810000,
+                "bank": "ICICI Bank",
+                "loan_type": "Education Loan"
             }
         },
         {
             "id": "36",
-            "username": "anika",
-            "password": "anika",
-            "email": "anika@gmail.com",
+            "username": "vikram",
+            "password": "vikram",
+            "email": "vikram@gmail.com",
             "phone": 1234567890,
-            "address": "Agra",
-            "city": "Agra",
-            "state": "Uttar Pradesh",
+            "address": "Jodhpur",
+            "city": "Jodhpur",
+            "state": "Rajasthan",
             "country": "India",
-            "pincode": 282001,
-            "gender": "Female",
-            "form" : {
-                "loanamount" : 100000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 1000,
-                "remainingamount" : 90000
+            "pincode": 342001,
+            "gender": "Male",
+            "form": {
+                "loanamount": 700000,
+                "loanterm": 18,
+                "intrestrate": "12%",
+                "emi": 7000,
+                "remainingamount": 630000,
+                "bank": "Axis Bank",
+                "loan_type": "Home Loan"
             }
         },
         {
             "id": "37",
-            "username": "arohi",
-            "password": "arohi",
-            "email": "arohi@gmail.com",
+            "username": "sunita",
+            "password": "sunita",
+            "email": "sunita@gmail.com",
             "phone": 1234567890,
-            "address": "Patiala",
-            "city": "Patiala",
-            "state": "Punjab",
+            "address": "Surat",
+            "city": "Surat",
+            "state": "Gujarat",
             "country": "India",
-            "pincode": 147001,
+            "pincode": 395001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 900000,
-                "loanterm" : 18 ,
-                "intrestrate" :"12%",
-                "emi" : 9000,
-                "remainingamount" : 810000
+            "form": {
+                "loanamount": 200000,
+                "loanterm": 12,
+                "intrestrate": "11%",
+                "emi": 2000,
+                "remainingamount": 180000,
+                "bank": "SBI",
+                "loan_type": "Car Loan"
             }
         },
         {
             "id": "38",
-            "username": "akash",
-            "password": "akash",
-            "email": "akash@gmail.com",
+            "username": "rakesh",
+            "password": "rakesh",
+            "email": "rakesh@gmail.com",
             "phone": 1234567890,
-            "address": "Ajmer",
-            "city": "Ajmer",
-            "state": "Rajasthan",
+            "address": "Nagpur",
+            "city": "Nagpur",
+            "state": "Maharashtra",
             "country": "India",
-            "pincode": 305001,
+            "pincode": 440001,
             "gender": "Male",
-            "form" : {
-                "loanamount" : 250000,
-                "loanterm" : 12 ,
-                "intrestrate" :"10%",
-                "emi" : 2500,
-                "remainingamount" : 225000
+            "form": {
+                "loanamount": 1000000,
+                "loanterm": 24,
+                "intrestrate": "14%",
+                "emi": 10000,
+                "remainingamount": 900000,
+                "bank": "HDFC Bank",
+                "loan_type": "Education Loan"
             }
         },
         {
             "id": "39",
-            "username": "khushi",
-            "password": "khushi",
-            "email": "khushi@gmail.com",
+            "username": "ritu",
+            "password": "ritu",
+            "email": "ritu@gmail.com",
             "phone": 1234567890,
-            "address": "Kota",
-            "city": "Kota",
-            "state": "Rajasthan",
+            "address": "Pune",
+            "city": "Pune",
+            "state": "Maharashtra",
             "country": "India",
-            "pincode": 324001,
+            "pincode": 411001,
             "gender": "Female",
-            "form" : {
-                "loanamount" : 1500000,
-                "loanterm" : 18 ,
-                "intrestrate" :"14%",
-                "emi" : 15000,
-                "remainingamount" : 1350000
+            "form": {
+                "loanamount": 500000,
+                "loanterm": 18,
+                "intrestrate": "13%",
+                "emi": 5000,
+                "remainingamount": 450000,
+                "bank": "ICICI Bank",
+                "loan_type": "Personal Loan"
             }
-        }
+        }        
         
     ]
 }
